@@ -6,8 +6,8 @@ laptops without remembering anything fancy.
 ## Install on a new laptop (the easy way)
 
 ```bash
-git clone git@github.com:aksheyd/custom-theme.git ~/custom-theme
-cd ~/custom-theme
+git clone git@github.com:aksheyd/cursor-inspired-dark.git ~/cursor-inspired-dark
+cd ~/cursor-inspired-dark
 ./install.sh
 ```
 
@@ -41,7 +41,7 @@ git push
 On the other laptop:
 
 ```bash
-cd ~/custom-theme && git pull
+cd ~/cursor-inspired-dark && git pull
 # Reload Window in your editor
 ```
 
